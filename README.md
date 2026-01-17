@@ -62,20 +62,6 @@ The final cognitive hybrid model achieved a maximum accuracy of **95.12%** in di
 
 ---
 
-## Repository Contents and Scope
-
-This repository contains **legacy experimental artifacts** created during the original study period (circa 2020–2021), including:
-
-- Exploratory Jupyter notebooks for model development  
-- A processed CSV file derived from ADNI baseline data  
-
-These materials are preserved **for academic transparency and historical reference**.
-
-> **Important Note:**  
-> The notebooks and datasets included in this repository should be regarded as **exploratory research artifacts**, not as a production-ready or fully reproducible pipeline. The repository’s primary purpose is to document the **methodological design and research contribution** of the published work.
-
----
-
 ## Intended Use
 
 This repository is intended for:
